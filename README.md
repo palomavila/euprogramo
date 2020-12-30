@@ -25,7 +25,7 @@ We used some stuff during this project:
 
 ## 💻License
 
- <li><a href=https://github.com/palomavila/euprogramo/blob/main/LICENSE">Click here</a></li>
+ <li><a href="https://github.com/palomavila/euprogramo/blob/main/LICENSE">Click here</a></li>
 
 <p align="center">Made by Paloma ➰</p>
 
